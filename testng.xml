@@ -6,7 +6,6 @@
             <class name="com.lemon.testcases.ShopcartTest"/>
             <class name="com.lemon.testcases.LoginTest"/>
             <class name="com.lemon.testcases.ProductSearchTest"/>
-            <class name="com.lemon.testcases.RegisterTest"/>
         </classes>
     </test>
 </suite>
